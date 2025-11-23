@@ -1,0 +1,1 @@
+no solo es un backend es todo el proyecto desplegado, hice mi mayor ezfuerzo pero se me acabo el tiempo y ni siquiera pude tenerlo listo para la sesion, espero y esto funcione ni siquiera dormi con la ayuda de mi hermano tratando de terminarlo
